@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:layoutDirection="rtl">
+
+    <group android:checkableBehavior="single"
+        android:layout_gravity="end"
+        android:gravity="end">
+        <item
+            android:id="@+id/allMenues"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="All" />
+        <item
+            android:id="@+id/saladMenues"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Salads" />
+        <item
+            android:id="@+id/sandwichesMenues"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Sandwiches" />
+        <item
+            android:id="@+id/desertMenues"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Deserts" />
+
+        <item
+            android:id="@+id/mainDishesMenues"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Main Dishes" />
+    </group>
+
+</menu>

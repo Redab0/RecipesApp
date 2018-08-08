@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recihelp</string>
+
+
+    <string-array name="recipe_titles">
+        <item name="mujadara">مجدرة</item>
+        <item name="mujadara">ملوخية باللحم</item>
+        <item name="mujadara">ملوخية دجاج</item>
+        <item name="mujadara">مكبوس لحم</item>
+        <item name="mujadara">مكبوس دجاج</item>
+        <item name="mujadara">برياني لحم</item>
+        <item name="mujadara">برياني دجاج</item>
+        <item name="mujadara">معكرونة بالجبنة</item>
+        <item name="mujadara">برياني ربيان</item>
+        <item name="mujadara">مربين</item>
+        <item name="mujadara">مسخن</item>
+        <item name="mujadara">شاكرية</item>
+        <item name="mujadara">فاصوليا بالزيت</item>
+        <item name="mujadara">بامية بالزيت</item>
+    </string-array>
+</resources>

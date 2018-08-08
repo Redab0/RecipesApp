@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recihelp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="recipe_titles">
+        <item name="mujadara">مجدرة</item>
+        <item name="mlokya_meat">ملوخية باللحم</item>
+        <item name="mlokya_chicken">ملوخية دجاج</item>
+        <item name="makbos_meat">مكبوس لحم</item>
+        <item name="makbos_chicken">مكبوس دجاج</item>
+        <item name="biryani_meat">برياني لحم</item>
+        <item name="biryani_chicken">برياني دجاج</item>
+        <item name="macncheese">معكرونة بالجبنة</item>
+        <item name="biryani_shrimp">برياني ربيان</item>
+        <item name="mrbyn">مربين</item>
+        <item name="musakhan">مسخن</item>
+        <item name="shakrya">شاكرية</item>
+        <item name="fasolya">فاصوليا بالزيت</item>
+        <item name="bamya">بامية بالزيت</item>
+    </string-array>
+
+
+</resources>
